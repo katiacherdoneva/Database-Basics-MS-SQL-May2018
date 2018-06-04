@@ -1,4 +1,4 @@
-USE Minions
+--USE Minions
 
 INSERT INTO Towns(Id, [Name]) VALUES
 (1, 'Sofia'),
